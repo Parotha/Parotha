@@ -1,5 +1,11 @@
-## Hi there 👋
+## About Myself
+Hey! I'm Parth Gupta (he/him), but my friends call me Parotha. I'm currently a first year CS student in BITS Pilani, Pilani campus (Batch of 2030). 
 
+I'm interested in developing code and want to create powerful applications which can help the needy. 
+
+I know a little bit of Python and am learning C, but I'm eager to learn and become better everyday.
+
+Thanks.
 <!--
 **Parotha/Parotha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
